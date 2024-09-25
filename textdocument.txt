@@ -1,5 +1,0 @@
-this aditya dhore i am changing some data here to check 
-pull and merge request
-
-branchA:inserting through BranchA
-branchB:
